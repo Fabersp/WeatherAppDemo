@@ -42,13 +42,13 @@ WeatherApp is a weather forecast application built using **SwiftUI**, **Combine*
 
 | Main Weather View  | Search Location | City List |
 |:------------------:|:---------------:|:---------:|
-| ![Light Main](Screenshots/Weather-Forecast-Light-Mode.png) | ![Light Search](Simulator Screenshot - iPhone 15 Pro - 2024-12-17 at 10.52.41.jpeg) | ![Light List](Simulator Screenshot - iPhone 15 Pro - 2024-12-17 at 10.52.56.jpeg) |
+| ![Light Main](Screenshots/Weather-Forecast-Light-Mode.png) | ![Light Search](Screenshots/Weather-findCity-Light-Mode.png) | ![Light List](Screenshots/Weather-CityList-Light-Mode.png) |
 
 ### **Dark Mode**
 
 | Main Weather View  | Search Location | City List |
 |:------------------:|:---------------:|:---------:|
-| ![Dark Main](Simulator Screenshot - iPhone 15 Pro - 2024-12-17 at 10.53.20.jpeg) | ![Dark Search](Simulator Screenshot - iPhone 15 Pro - 2024-12-17 at 10.52.47.jpeg) | ![Dark List](Simulator Screenshot - iPhone 15 Pro - 2024-12-17 at 10.53.26.jpeg) |
+| ![Dark Main](Screenshots/Weather-Forecast-Dark-Mode.png) | ![Dark Search](Screenshots/Weather-findCity-Dark-Mode.png) | ![Dark List](Screenshots/Weather-CityList-Dark-Mode.png) |
 
 ---
 
