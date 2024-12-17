@@ -108,3 +108,10 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 - [Combine Framework](https://developer.apple.com/documentation/combine)
 - [OpenWeatherMap API](https://openweathermap.org/api)
 
+---
+
+##  Contribution & Support
+
+If you’d like to contribute to this project or show your support, you can buy me a coffee! ☕
+
+PayPal Email: fabricio_0505_@hotmail.com
