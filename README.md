@@ -99,7 +99,7 @@ The app fetches weather data from a REST API (OpenWeatherMap). Ensure the follow
 ## 🧑‍💻 **Developers**
 
 - **Lead Developer:** Fabricio Aguiar de Padua
-- **LinkedIn:** www.linkedin.com/fabricio-padua  
+- **LinkedIn:** www.linkedin.com/in/fabriciopaduadev  
 - **contact:** fabricio_0505_@hotmail.com
 
 ---
