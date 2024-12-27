@@ -96,6 +96,14 @@ The app fetches weather data from a REST API (OpenWeatherMap). Ensure the follow
 
 ---
 
+## 🧑‍💻 **Developers**
+
+- **Lead Developer:** Fabricio Aguiar de Padua
+- **LinkedIn:** www.linkedin.com/fabricio-padua  
+- **contact:** fabricio_0505_@hotmail.com
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
@@ -110,8 +118,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-##  Contribution & Support
-
-If you’d like to contribute to this project or show your support, you can buy me a coffee! ☕
-
-PayPal Email: fabricio_0505_@hotmail.com
